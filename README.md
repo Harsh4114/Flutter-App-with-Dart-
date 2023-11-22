@@ -1,6 +1,8 @@
-# Flutter Project 
+# Flutter App demo using dart 
 
-A new Flutter project.
+Demo project 
+which is having profile , search , splash screen 
+
 
 ## Getting Started
 
